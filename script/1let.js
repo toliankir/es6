@@ -1,9 +1,9 @@
 
-// if (true) {
-//     let a = 'test data';
-// }
+if (true) {
+    var a = 'test data';
+}
 
-// console.log(a);
+console.log(a);
 
 //--------------------------------
 
